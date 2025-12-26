@@ -1,0 +1,5 @@
+{
+  "name": "QuantumPulse - Global Quantum Tech Trends",
+  "description": "A high-performance dashboard tracking the latest and most trending quantum technology developments across Chinese and English spheres using Gemini-3-Flash and Google Search grounding.",
+  "requestFramePermissions": []
+}
